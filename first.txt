@@ -5,3 +5,7 @@ had cimmit once
 
 
 now study git status
+
+
+now change this txt sird
+
