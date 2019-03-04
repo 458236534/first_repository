@@ -1,3 +1,7 @@
 my first time use in git
 git is free software
 had cimmit once
+
+
+
+now study git status
